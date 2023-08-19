@@ -1,0 +1,24 @@
+.container1{
+    display: flex;
+    flex-direction: column;
+
+}
+video{
+    width: 300px;
+}
+.video_box {
+    display: flex;
+    flex-direction: row;
+}
+.video_box div{
+    background-color: aquamarine;
+    border: 1px solid navajowhite;
+}
+.view_count{
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}

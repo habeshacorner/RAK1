@@ -1,10 +1,8 @@
+.container1{
+    display: flex;
+    flex-direction: row;
 
-
-td {
-    border:1px solid brown;
 }
-
-th {
-border:1px solid grey;
-background: linear-gradient(to bottom,green, yellow, red);
+video{
+    width: 400px;
 }
